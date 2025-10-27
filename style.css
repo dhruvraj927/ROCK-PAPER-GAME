@@ -1,0 +1,60 @@
+h2{
+    background-color: aqua;
+    text-align: center;
+    border-radius: 20px;
+   
+}
+body{
+    background-color: antiquewhite;
+}
+#im{
+    width: 100px;
+    border-radius: 30px;
+    box-shadow: 3px 3px ;
+    padding: 10px;
+}
+#rock{
+    margin: 20px;
+    border-radius: 30px;
+    
+}
+img :hover{
+    width: 250px;
+} 
+
+#rock :hover{
+    width: 90px;
+}
+#space{
+    padding: 20px;
+    display: flex;
+    
+}
+#ans{
+    background-color: aquamarine;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 2px 2px;
+    padding: 20px;
+    width: 40%;
+   
+}
+#paper{
+     margin: 20px;
+    border-radius: 30px;
+}
+#paper :hover{
+    width: 90px;
+}
+#siser{
+     margin: 20px;
+    border-radius: 30px;
+}
+#siser :hover{
+    width: 90px;
+}
+#win-photo{
+    width: 300px;
+    box-shadow: 2px 2px;
+    border-radius: 20px;
+}
